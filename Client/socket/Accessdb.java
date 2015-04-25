@@ -20,7 +20,7 @@ public class Accessdb {
       private Connection connection;
       private final String url="jdbc:mysql://127.0.0.1:3306/info";
       private final String user="root";
-      private final String pass="kmasecurity";
+      private final String pass="";
       private String table ="history";
       String a="sender-ricipient-content";
         
