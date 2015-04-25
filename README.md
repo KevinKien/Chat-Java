@@ -1,2 +1,3 @@
-# Chat-Java by Kevin Kien member of Ksec Club
-Java Chat using socket and multiThread
+# Application Chat using Java
+Java Chat using socket and multiThread by Kevin Kien
+
